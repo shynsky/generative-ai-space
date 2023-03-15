@@ -1,4 +1,4 @@
-# generative-space
+# Generative AI Landscape
 ```mermaid
 graph LR
 A[Generative AI] --> B[Text Generation]

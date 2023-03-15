@@ -1,4 +1,5 @@
 # generative-space
+```mermaid
 graph LR
 A[Generative AI] --> B[Text Generation]
 A --> C[Image Generation]
@@ -36,3 +37,4 @@ Y --> AH[Longformer]
 Y --> AI[DeBERTa]
 Y --> AJ[LayoutLM]
 Y --> AK[Megatron]
+```
